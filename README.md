@@ -1,5 +1,5 @@
-# Cloud-Service
-All about cloud service for deployments 
+# Cloud
+All about cloud, cloud-service for deployments (devsecops).
 
 ## what is cloud ?
 Cloud refers to a network of remote servers that are used to store, manage, and process data and applications over the internet. Cloud computing enables users to access computing resources, such as servers, storage, databases, software, and networking, on an on-demand basis, without the need for owning and maintaining the infrastructure themselves.
