@@ -73,3 +73,8 @@ Some popular IaaS providers include Amazon Web Services (AWS), Microsoft Azure, 
 | Scalability |	Limited |	High |	High |
 User Responsibility |	End-user management and data |	Application management, data, and configurations |	Operating system management, data, applications, and configurations |
 Examples |	Google Apps, Dropbox, Salesforce |	Microsoft Azure App Service, Google App Engine, Heroku |	Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, IBM Cloud |
+
+
+-----------------------
+### Social connect
+[Instagram](https://instagram.com/bugxploit) | [Linkedin](https://www.linkedin.com/in/bugxploit) | [Youtube](https://youtube.com/@bugxploit)
